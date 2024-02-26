@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    padding:0;
+}
+table,th,td{
+    margin:auto;
+    font-size: 15px;
+    border: 2px solid #000;
+    border-collapse: collapse;
+}
+th{
+    background-color:green;
+    color: aliceblue;
+}
+td,tr{
+    padding-right: 30px;
+}
+td.Name{
+    background-color: beige ;
+}
+td.c{
+    background-color: lightgreen;
+}
